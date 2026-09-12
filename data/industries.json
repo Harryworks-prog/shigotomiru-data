@@ -3,7 +3,7 @@
   "coverage": "37業界の業界平均。もとにした職業は318で、うち SE（基盤システム）だけ IT・エンジニアと社内SE の両方に入っています。建築設計技術者と土木設計技術者の2件は、値はありますが業界平均には入れていません",
   "scale": "各領域は 1.00〜5.00。高いほどその傾向が強い",
   "license": "job tag 利用規約 第9条により二次利用可。出典表示（ファイル名とバージョン）が条件。設問文（第8条で複製禁止）は含みません。ここにあるのは数値だけです",
-  "distributor": "シゴトミル https://tekishoku-compass.com/matrix/",
+  "distributor": "シゴトミル https://tekishoku-compass.com/dataset/",
   "domains": {"realistic":"手を動かす","investigative":"調べて突き止める","artistic":"表現する","social":"人と関わる","enterprising":"人を動かす","conventional":"決まった手順を正確に回す"},
   "industries": [
     {"slug":"consulting","name":"コンサル","realistic":2.89,"investigative":3.19,"artistic":2.65,"social":3.49,"enterprising":3.63,"conventional":2.69},
