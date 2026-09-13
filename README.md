@@ -1,5 +1,7 @@
 # シゴトミル 職業データ（37業界・320職業）
 
+> **English**: Japanese occupational interest (RIASEC-type, 6 domains) and work-value (11 items) data for 37 industries and 320 occupations, derived from the "job tag" (Japanese O-NET) public dataset by MHLW / JILPT, ver. 7.00. CSV and JSON. Industry grouping and slugs were added by Shigotomiru (https://tekishoku-compass.com/dataset/). Use under Article 9 of the job tag Terms of Use with attribution — see [LICENSE.md](LICENSE.md).
+
 厚生労働省の職業情報提供サイト「job tag（日本版O-NET）」の公開データを、**37業界**と**320職業**の単位で並べ直した数値です。
 サイト [シゴトミル](https://tekishoku-compass.com/) の記事と診断が使っているものと同じファイルを、そのまま置いています。
 
